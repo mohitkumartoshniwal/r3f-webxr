@@ -1,5 +1,6 @@
 import { Canvas } from "@react-three/fiber";
 import { ARButton, XR } from "@react-three/xr";
+import { Leva } from "leva";
 import { useCallback, useState } from "react";
 import { CharacterAnimationsProvider } from "../../contexts/CharacterAnimations";
 import Interface from "./Interface";
