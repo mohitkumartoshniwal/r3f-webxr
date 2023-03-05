@@ -31,6 +31,7 @@ const XrOverlayContainer = () => {
           </XR>
         </Canvas>
         <Interface ref={interfaceRef} />
+        <Leva hidden={true} />
       </CharacterAnimationsProvider>
     </>
   );
