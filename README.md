@@ -4,3 +4,8 @@ Code for the [Youtube Playlist](https://youtube.com/playlist?list=PLpM_sf_d5YTPX
 
 [Live link](https://r3f-fiber-draft.vercel.app/xr-cube)
 
+## Credits
+
+
+Models taken from https://market.pmnd.rs/
+
